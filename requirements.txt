@@ -1,0 +1,15 @@
+pandas
+mlflow
+dill
+pathlib
+python-dotenv
+ipykernel
+notebook
+numpy
+joblib
+scikit-learn
+#-e .
+typing
+PYYAML 
+types-PyYAML
+six
